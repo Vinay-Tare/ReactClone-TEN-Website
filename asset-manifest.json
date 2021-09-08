@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactClone-TEN-Website/static/css/main.958fa563.chunk.css",
+    "main.css": "/ReactClone-TEN-Website/static/css/main.bd695bbd.chunk.css",
     "main.js": "/ReactClone-TEN-Website/static/js/main.10206568.chunk.js",
     "main.js.map": "/ReactClone-TEN-Website/static/js/main.10206568.chunk.js.map",
     "runtime-main.js": "/ReactClone-TEN-Website/static/js/runtime-main.1e027211.js",
@@ -12,7 +12,7 @@
     "static/js/3.ae4d4ae1.chunk.js.map": "/ReactClone-TEN-Website/static/js/3.ae4d4ae1.chunk.js.map",
     "index.html": "/ReactClone-TEN-Website/index.html",
     "static/css/2.16fabac2.chunk.css.map": "/ReactClone-TEN-Website/static/css/2.16fabac2.chunk.css.map",
-    "static/css/main.958fa563.chunk.css.map": "/ReactClone-TEN-Website/static/css/main.958fa563.chunk.css.map",
+    "static/css/main.bd695bbd.chunk.css.map": "/ReactClone-TEN-Website/static/css/main.bd695bbd.chunk.css.map",
     "static/js/2.a96ab46a.chunk.js.LICENSE.txt": "/ReactClone-TEN-Website/static/js/2.a96ab46a.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/ReactClone-TEN-Website/static/media/fontawesome-webfont.f691f37e.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.1e027211.js",
     "static/css/2.16fabac2.chunk.css",
     "static/js/2.a96ab46a.chunk.js",
-    "static/css/main.958fa563.chunk.css",
+    "static/css/main.bd695bbd.chunk.css",
     "static/js/main.10206568.chunk.js"
   ]
 }
