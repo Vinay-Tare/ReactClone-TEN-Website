@@ -1,0 +1,41 @@
+.hiring .custom-overlay {
+    background-color: rgba(54, 52, 52, 0.5);
+}
+
+.hiring .custom-overlay p {
+    font-size: 1.125rem;
+    padding: 2px;
+}
+
+.hiring .custom-form {
+    margin-bottom: 10%;
+}
+
+.hiring .custom-form label {
+    color: black;
+}
+
+.hiring .custom-form input,select {
+    box-shadow: 1px 1px 2px 2px grey  !important;
+}
+
+.hiring .custom-form input:hover,select:hover {
+    opacity: 0.75;
+}
+
+.hiring .custom-form input:focus,select:focus {
+   background-color: lightgrey;
+   opacity: 1;
+}
+
+.hiring .custom-form button {
+    background-color: rgb(214, 214, 214);
+    box-shadow: 1px 1px 2px 2px rgb(179, 179, 179);    
+    font-style: italic;
+    margin-top: 20%;
+    padding: 3% 20%;
+}
+
+.hiring .custom-form button:hover {
+    background-color: rgb(91, 212, 91);
+}

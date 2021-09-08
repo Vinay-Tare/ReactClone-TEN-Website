@@ -1,0 +1,141 @@
+.online-courses .range-slider {
+  position: relative;
+  height: 10vh;
+  width: 100%;
+  
+}
+
+.online-courses .range-slider input[type=range] {
+  pointer-events: none;
+  -webkit-appearance: none;
+  margin: 20px 0;
+  background-color: transparent;
+  position: absolute;
+  height: 24px;
+  width: 100%;
+}
+
+.online-courses .range-slider input[type=range]:focus {
+  outline: none;
+}
+
+.online-courses .range-slider input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 2px;
+  cursor: pointer;
+  box-shadow: 0px 0px 0px #000000;
+  background: #8B9BAB;
+  border-radius: 2px;
+  border: 0px solid #000000;
+}
+
+.online-courses .range-slider input[type=range]:last-of-type::-webkit-slider-runnable-track {
+  background: transparent;
+}
+
+.online-courses .range-slider input[type=range]::-webkit-slider-thumb {
+  pointer-events: all;
+  box-shadow: 0px 0px 0px #CCCCCC;
+  border: 0px solid #CCCCCC;
+  height: 18px;
+  width: 18px;
+  border-radius: 10px;
+  background: #FFFFFF;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -8px;
+}
+
+.online-courses .range-slider input[type=range]::-webkit-slider-thumb:active {
+  transform: scale(1.2);
+}
+
+.online-courses .range-slider input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 2px;
+  cursor: pointer;
+  box-shadow: 0px 0px 0px #000000;
+  background: #8B9BAB;
+  border-radius: 2px;
+  border: 0px solid #000000;
+}
+
+.online-courses .range-slider input[type=range]:last-of-type::-moz-range-track {
+  background: transparent;
+}
+
+.online-courses .range-slider input[type=range]::-moz-range-thumb {
+  pointer-events: all;
+  box-shadow: 0px 0px 0px #CCCCCC;
+  border: 0px solid #CCCCCC;
+  height: 18px;
+  width: 18px;
+  border-radius: 10px;
+  background: #FFFFFF;
+  cursor: pointer;
+}
+
+.online-courses .range-slider input[type=range]::-moz-range-thumb:active {
+  transform: scale(1.2);
+}
+
+.online-courses .range-slider input[type=range]::-ms-track {
+  width: 100%;
+  height: 2px;
+  cursor: pointer;  
+  background: #CCCCCC;
+  border-color: transparent;
+  color: transparent;
+}
+
+.online-courses .range-slider input[type=range]:last-of-type::-ms-track {
+  background: transparent;
+}
+
+.online-courses .range-slider input[type=range]::-ms-thumb {
+  pointer-events: all;
+  margin-top: 1px;
+  box-shadow: 0px 0px 0px #CCCCCC;
+  border: 0px solid #CCCCCC;
+  height: 18px;
+  width: 18px;
+  border-radius: 10px;
+  background: #FFFFFF;
+  cursor: pointer;
+}
+
+.online-courses .range-slider input[type=range]::-ms-thumb:active {
+  transform: scale(1.2);
+}
+
+.card-link {
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+}
+
+.overlay-download {
+  background-color: white;
+  padding: 5%;
+  margin-right: 5%;
+  float: right;
+  opacity: 0.75;
+  border-radius: 50%;
+}
+
+.overlay-quick-view {
+  position: absolute;
+  bottom: 0;
+  background-color: white;
+  opacity: 0;
+  text-align: center;
+  padding-top: 5%;
+  height: 0;
+  width: 100%;
+  transition: height 0.75s, opacity 0.75s;
+}
+
+.card-link:hover .overlay-quick-view {
+  opacity: 0.85;
+  height: 30%;
+}

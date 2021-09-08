@@ -1,0 +1,74 @@
+.header .row-header {
+  margin: 0px auto;
+  padding: 0px auto;
+}
+
+.header .jumbotron-fluid {
+  padding: 20px 0px;
+  margin: 0px auto;
+  background:white;
+}
+
+.header .styled-text {
+    color: #E81038;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    text-shadow: 1px 1px 2px black;
+  }
+
+.header .styled-text::first-letter {
+  color: black;
+}
+
+.header .search-bar {
+  border:0px;
+  border-radius: 10rem;
+}
+
+.header .search-bar:focus {
+  background-color: pink !important; 
+  box-shadow: none;
+}
+
+.header .search-bar::placeholder {
+  color: white;
+}
+
+.search-bar + span > i{
+  border-radius: 0 10rem 10rem 0;  
+}
+
+.header .search-bar:focus + span > i {
+  background-color: pink !important; 
+  color: skyblue !important;
+}
+
+.header .custom-dropdown {
+  color: white;
+  border: none; 
+}
+
+.header .custom-dropdown  .dropdown-item {
+  font-size: 1.25rem;
+  text-align: center;
+  background-color: white;
+  width: calc(100% + 10vw);
+  border-bottom: 1px solid black;
+}
+
+.header .custom-dropdown .dropdown-item:last-of-type {
+  border: none;
+}
+
+.header .custom-dropdown  .dropdown-item:hover {
+  color: #E81038;
+}
+
+.header .nav-link {
+  color: black !important;
+}
+
+.header .custom-active {
+  color: #D8053F !important;
+}
