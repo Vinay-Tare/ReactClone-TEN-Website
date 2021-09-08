@@ -1,0 +1,47 @@
+[
+        {
+            "id": 0,
+            "description": "Angular Crash Course" ,
+            "price": 3300.00,
+            "image": "/images/course1.png",
+            "onOffer": true,
+            "offerPrice": 2000,
+            "date": "Tue Sep 01 2021 23:17:31 GMT+0530 (India Standard Time)"
+        },
+        {
+            "id": 1,
+            "description": "Audio Content Creation" ,
+            "price": 1000.00,
+            "image": "/images/course2.png",
+            "onOffer": false,
+            "offerPrice": 0,
+            "date": "Tue Sep 07 2021 23:17:31 GMT+0530 (India Standard Time)"
+        },
+        {
+            "id": 2,
+            "description": "Audio Creator: Internship+Training+ Career Counselling+Resume & LinkedIn Profile" ,
+            "price": 400.00,
+            "image": "/images/course3.png",
+            "onOffer": false,
+            "offerPrice": 0,
+            "date": "Tue Sep 11 2021 23:17:31 GMT+0530 (India Standard Time)"
+        },
+        {
+            "id": 3,
+            "description": "AudioCreation: International Internship+Traning+CareerCounselling+Resume&LinkdIn" ,
+            "price": 2927.00,
+            "image": "/images/course4.png",
+            "onOffer": false,
+            "offerPrice": 0,
+            "date": "Tue Sep 02 2021 23:17:31 GMT+0530 (India Standard Time)"
+        },
+        {
+            "id": 4,
+            "description": "Community Management Training+ Internship + Career Counselling" ,
+            "price": 199,
+            "image": "/images/course5.png",
+            "onOffer": false,
+            "offerPrice": 0,
+            "date": "Tue Sep 07 2021 23:17:31 GMT+0530 (India Standard Time)"
+        }
+]
