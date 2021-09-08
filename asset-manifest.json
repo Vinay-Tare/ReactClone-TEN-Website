@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactClone-TEN-Website/static/css/main.958fa563.chunk.css",
-    "main.js": "/ReactClone-TEN-Website/static/js/main.93f2b672.chunk.js",
-    "main.js.map": "/ReactClone-TEN-Website/static/js/main.93f2b672.chunk.js.map",
+    "main.js": "/ReactClone-TEN-Website/static/js/main.10206568.chunk.js",
+    "main.js.map": "/ReactClone-TEN-Website/static/js/main.10206568.chunk.js.map",
     "runtime-main.js": "/ReactClone-TEN-Website/static/js/runtime-main.1e027211.js",
     "runtime-main.js.map": "/ReactClone-TEN-Website/static/js/runtime-main.1e027211.js.map",
     "static/css/2.16fabac2.chunk.css": "/ReactClone-TEN-Website/static/css/2.16fabac2.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.16fabac2.chunk.css",
     "static/js/2.a96ab46a.chunk.js",
     "static/css/main.958fa563.chunk.css",
-    "static/js/main.93f2b672.chunk.js"
+    "static/js/main.10206568.chunk.js"
   ]
 }
